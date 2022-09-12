@@ -17,6 +17,9 @@ function love.load()
    target.y = 300
    target.radius = 20
    
+   score = 0
+   timer = 0
+   
 end
 
 
